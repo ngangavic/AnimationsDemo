@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/code" android:id="@+id/code" app:showAsAction="never"/>
+    <item android:title="@string/frame_anim" android:id="@+id/frame_anim" app:showAsAction="never"/>
+    <item android:title="@string/anim_vector" android:id="@+id/anim_vector" app:showAsAction="never"/>
+    <item android:title="@string/two_l_trans" android:id="@+id/two_l_trans" app:showAsAction="never"/>
+    <item android:title="@string/two_l_trans_no" android:id="@+id/two_l_trans_no" app:showAsAction="never"/>
+    <item android:title="@string/keyframe" android:id="@+id/keyframe" app:showAsAction="never"/>
+</menu>

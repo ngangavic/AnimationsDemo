@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AnimationsDemo</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+    <string name="translate">Translate</string>
+    <string name="fade">Fade</string>
+    <string name="code">Code</string>
+    <string name="title_code_ac">AnimationsDemo: Code</string>
+    <string name="title_main_ac">AnimationsDemo: XML</string>
+    <string name="frame_anim">Frame Animation</string>
+    <string name="anim_vector">Animated Vector</string>
+    <string name="some_text">Super Mario is a series of fantasy platform games created by Nintendo featuring their
+        mascot, Mario. Alternatively called the Super Mario Bros series or simply the Mario series, it is the central
+        series of the greater Mario franchise. At least one Super Mario game has been released for every major Nintendo
+        video game console.
+    </string>
+    <string name="two_l_trans">Two Layouts Transition</string>
+    <string name="two_l_trans_no">Transition No Scene</string>
+    <string name="keyframe">KeyFrame</string>
+
+</resources>
